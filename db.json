@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Machine Learning\n- Supervised learning\n- Unsupervised Learning\n- Reinforcement Learning",
+      "updated": "2021-10-13T06:39:14.674Z"
+    },
+    {
+      "body": "Hello world\nI am silver shine\nI like to program everything",
+      "updated": "2021-10-13T06:39:13.555Z",
+      "id": 10
+    },
+    {
+      "body": "Other new note\navailable here",
+      "updated": "2021-10-13T06:39:32.379Z",
+      "id": 13
+    },
+    {
+      "body": "Hey friends\nLook at me\nI am very happy",
+      "updated": "2021-10-13T06:40:38.299Z",
+      "id": 14
+    }
+  ]
+}
